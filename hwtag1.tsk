@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="000_Huetten Hotz" id="0" comment="" altitude="873.0">
+      <Location longitude="7.9411167" latitude="47.63305"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="237_Wasserflue" id="0" comment="" altitude="866.0">
+      <Location longitude="8.02035" latitude="47.4310167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="239_Weissenstein" id="0" comment="" altitude="1284.0">
+      <Location longitude="7.5091667" latitude="47.25195"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="023_Barmelweid" id="0" comment="" altitude="771.0">
+      <Location longitude="7.9716667" latitude="47.4213833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="000_Huetten Hotz" id="0" comment="" altitude="873.0">
+      <Location longitude="7.9411167" latitude="47.63305"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+

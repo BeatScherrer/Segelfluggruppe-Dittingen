@@ -1,0 +1,39 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="608_BERRA" id="0" comment="" altitude="1635.0">
+      <Location longitude="7.1808333" latitude="46.67805"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="605_MONTBOVON" id="0" comment="" altitude="800.0">
+      <Location longitude="7.0422167" latitude="46.4852833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="551_BUTTWIL" id="0" comment="" altitude="722.0">
+      <Location longitude="8.3025" latitude="47.2647167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="518_ROSSENS" id="0" comment="" altitude="679.0">
+      <Location longitude="7.1127833" latitude="46.7172167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="521_LAUPEN" id="0" comment="" altitude="484.0">
+      <Location longitude="7.245" latitude="46.9"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="1000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001_BELLECHASSE" id="0" comment="" altitude="432.0">
+      <Location longitude="7.1325" latitude="46.9797167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
+

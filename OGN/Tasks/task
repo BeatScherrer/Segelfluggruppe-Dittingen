@@ -1,33 +1,26 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="207_COURTELARY" id="0" comment="" altitude="686.0">
-      <Location longitude="7.0908333" latitude="47.1836167"/>
+    <Waypoint name="004 Fringeli" id="0" comment="" altitude="730.0">
+      <Location longitude="7.48945" latitude="47.3697167"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="023_STCROIX" id="0" comment="" altitude="1040.0">
-      <Location longitude="6.5" latitude="46.8166667"/>
+  <Point type="Area">
+    <Waypoint name="191 Olten" id="0" comment="" altitude="418.0">
+      <Location longitude="7.8886167" latitude="47.3433333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="968_W-Weissenstein" id="0" comment="" altitude="1132.0">
-      <Location longitude="7.4675" latitude="47.2483333"/>
+  <Point type="Area">
+    <Waypoint name="127 Courtelary" id="0" comment="" altitude="685.0">
+      <Location longitude="7.0908333" latitude="47.1836167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="312_SAIGNELEGIER" id="0" comment="" altitude="991.0">
-      <Location longitude="6.9941667" latitude="47.2536167"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="003_LSTB 26" id="0" comment="" altitude="432.0">
-      <Location longitude="7.1361167" latitude="46.9802833"/>
+    <Waypoint name="000 Dittingen Flpl." id="0" comment="" altitude="536.0">
+      <Location longitude="7.4908333" latitude="47.4388833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
-

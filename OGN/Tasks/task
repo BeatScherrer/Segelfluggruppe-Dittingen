@@ -1,21 +1,33 @@
 <Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="004 Fringeli" id="0" comment="" altitude="730.0">
-      <Location longitude="7.48945" latitude="47.3697167"/>
+    <Waypoint name="005 Hohe Winde" id="0" comment="" altitude="1204.0">
+      <Location longitude="7.58055" latitude="47.3441667"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="191 Olten" id="0" comment="" altitude="418.0">
-      <Location longitude="7.8886167" latitude="47.3433333"/>
+    <Waypoint name="214 St Imier" id="0" comment="" altitude="793.0">
+      <Location longitude="7.0016667" latitude="47.15305"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="127 Courtelary" id="0" comment="" altitude="685.0">
-      <Location longitude="7.0908333" latitude="47.1836167"/>
+    <Waypoint name="142 Gelterkinden" id="0" comment="" altitude="403.0">
+      <Location longitude="7.84805" latitude="47.4672167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="30000.0"/>
+    <ObservationZone type="Cylinder" radius="5000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="140 Furtwangen" id="0" comment="" altitude="901.0">
+      <Location longitude="8.2038833" latitude="48.0516667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="35000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="105 Balsthal" id="0" comment="" altitude="551.0">
+      <Location longitude="7.70305" latitude="47.3161167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="000 Dittingen Flpl." id="0" comment="" altitude="536.0">

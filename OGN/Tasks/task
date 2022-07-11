@@ -1,17 +1,23 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005 Hohe Winde" id="0" comment="" altitude="1204.0">
-      <Location longitude="7.58055" latitude="47.3441667"/>
+    <Waypoint name="004 Fringeli" id="0" comment="" altitude="730.0">
+      <Location longitude="7.48945" latitude="47.3697167"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="165 Le Brassus" id="0" comment="" altitude="1022.0">
-      <Location longitude="6.21305" latitude="46.5858333"/>
+  <Point type="Area">
+    <Waypoint name="214 St Imier" id="0" comment="" altitude="793.0">
+      <Location longitude="7.0016667" latitude="47.15305"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
-  <Point type="Turn">
+  <Point type="Area">
+    <Waypoint name="108 Belchen" id="0" comment="" altitude="609.0">
+      <Location longitude="7.83555" latitude="47.3527833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Area">
     <Waypoint name="003 Erschwil" id="0" comment="" altitude="447.0">
       <Location longitude="7.5427833" latitude="47.3752833"/>
     </Waypoint>

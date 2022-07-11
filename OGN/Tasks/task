@@ -3,7 +3,7 @@
     <Waypoint name="004 Fringeli" id="0" comment="" altitude="730.0">
       <Location longitude="7.48945" latitude="47.3697167"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="214 St Imier" id="0" comment="" altitude="793.0">
